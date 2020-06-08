@@ -80,12 +80,13 @@ Hero
 .hero-panel {
 	color: white;
 	background-color: #F5F5F5;
-	padding: 50px 0px;
+	padding: 219px 0px;
 			/*top right bottom left*/
-	height: 350px;
 	background-image: url("/img/website home v5.jpg");
+	backgroung-repeat: no-repeat;
 	background-size: 100% auto;
 	max-width: 100%;
+	max-height: 100%;
 }
 
 
