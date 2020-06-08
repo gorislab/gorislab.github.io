@@ -83,7 +83,7 @@ Hero
 	padding: 50px 0px;
 			/*top right bottom left*/
 	height: 450px;
-	background-image: url("../../img/website home v5.pdf");
+	background-image: url("/img/website home v5.pdf");
 	background-size: 100% auto;
 	max-width: 100%;
 }
