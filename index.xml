@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gorislab</title>
+    <link>/</link>
+    <description>Recent content on Gorislab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collaborators</title>
+      <link>/collabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/collabs/</guid>
+      <description>Olivier Hénaff - DeepMind, London, UK
+https://www.olivierhenaff.com/
+Ian Nauhaus - University of Texas at Austin
+https://labs.la.utexas.edu/nlab/
+Eero Simoncelli - New York University
+https://www.cns.nyu.edu/~lcv/index.html
+Ann Hermundstad - Janelia Research Campus, Ashburn, Virginia
+https://www.janelia.org/lab/hermundstad-lab
+Wiktor Młynarski - Institute of Science and Technology Austria
+http://pub.ist.ac.at/~wmlynars/</description>
+    </item>
+    
+    <item>
+      <title>Lab Members</title>
+      <link>/labmembers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labmembers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Wiki</title>
+      <link>/wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/</guid>
+      <description>https://wikis.utexas.edu/display/gorislab</description>
+    </item>
+    
+    <item>
+      <title>Research Projects</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Predictive Vision The brain is built to predict. It predicts the consequences of movement in the environment, the actions needed for survival, but also fundamental things such as what we will see in the coming seconds. Visual prediction is difficult because natural input (the stream of images on the retina) evolves according to irregular, jagged temporal trajectories. We introduced the “temporal straightening” hypothesis, positing that sensory systems seek to transform their input such that neural representations follow straighter temporal trajectories.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Code used to implement analyses described in Goris, Movshon, &amp;amp; Simoncelli (2014)</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Hénaff OJ, Boundy-Singer Z, Meding K, Ziemba CM, &amp;amp; Goris RLT (2020). Representation of visual uncertainty through neural gain variability. Nature Communications 11, 2513. (Link)
+Uncertainty is intrinsic to perception. Neural circuits which process sensory information must therefore also represent the reliability of this information. How they do so is a topic of debate. We propose a model of visual cortex in which average neural response strength encodes stimulus features, while cross-neuron variability in response gain encodes the uncertainty of these features.</description>
+    </item>
+    
+  </channel>
+</rss>

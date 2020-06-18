@@ -1,0 +1,165 @@
+/*************
+Global Styles
+************** */
+
+
+
+.wrapper {
+	width: 90%;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.off-canvas-wrapper {
+	background-color: #222;
+}
+
+
+/*************
+Nav mobile
+************** */
+
+.title-bar {
+	background-color: #222;
+	height: 60px;
+	padding-top: 15px;
+}
+
+#mobile-menu {
+	background-color: #222;
+	padding: 10px;
+}
+
+#mobile-menu li {
+	list-style: none;
+}
+
+#mobile-menu a {
+	color: rgba(255,255,255, 0.6);
+	font-weight: bold;
+	line-height: 2;
+}
+
+#mobile-menu a:hover {
+	color: rgba(255,255,255, 0.8);
+}
+
+/*************
+Nav desktop
+************** */
+
+.nav-desktop {
+	background-color: #222;
+	padding: 0;
+}
+
+.site-logo {
+	color: white;
+}
+
+.nav-desktop .menu-desktop {
+	background-color: transparent;
+	line-height: 50px;
+}
+
+.menu > li > a {
+	display: inline-block;
+	color: white;
+	line-height: 50px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.menu > li > a:hover {
+	background-color: rgba(255,255,255, 0.1);
+}
+
+/*************
+Hero
+************** */
+.hero-panel {
+	color: white;
+	background-color: blue;
+	padding: 9.7%;
+			/*top right bottom left*/
+	background-image: url("../img/website home smol 2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80.8%;
+	max-width: 900px;
+	height: auto;
+}
+
+
+/*************
+Main
+************** */
+.main-content {
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
+/*************
+Footer
+************** */
+footer {
+	background-color: #222;
+	padding: 50px 0px;
+}
+ 
+footer h4 {
+	color: rgba(255,255,255, 0.8);
+	font-size: 1.3em;
+}
+
+footer hr {
+	border-color: rgba(255,255,255, 0.1);
+	margin: 10px 0;
+}
+ 
+footer a {
+	display: block;
+	color: rgba(255,255,255, 0.6);
+	font-size: 0.8em;
+}
+
+footer a span {
+	font-weight: bold;
+	color: rgba(255,255,255, 0.3);
+	
+}
+
+footer a:hover {
+	color: rgba(255,255,255, 0.8);
+}
+
+/*************
+Media Query
+************** */
+
+@media (max-width: 640px) {
+	.nav-desktop {
+		display: none;
+	}
+}
+
+@media (max-width: 800px) {
+	.hero h1,
+	.hero p {
+		width: 100%;
+	}
+}
