@@ -3,6 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/abstracts/goris2013/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/goris2014/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/goris2015/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/goris2017/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/goris2018/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/henaff2019/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/henaff2020/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/rabinowitz2015/</loc>
+  </url>
+  
+  <url>
+    <loc>/abstracts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
