@@ -82,6 +82,15 @@ Pattern detection is the bedrock of modern vision science. Nearly half a century
       <guid>/abstracts/rabinowitz2015/</guid>
       <description>Rabinowitz, N. C., Goris, R. L. T., Cohen, M. R., &amp;amp; Simoncelli, E. P. (2015). Attention stabilizes the shared gain of V4 populations. eLife, e08998. Responses of sensory neurons represent stimulus information, but are also influenced by internal state. For example, when monkeys direct their attention to a visual stimulus, the response gain of specific subsets of neurons in visual cortex changes. Here, we develop a functional model of population activity to investigate the structure of this effect.</description>
     </item>
+	  
+	      <item>
+      <title></title>
+      <link>/abstracts/henaff2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/henaff2021/</guid>
+      <description>Hénaff OJ, Bai, Y. Charlton, J.A, Nauhaus, I., Simoncelli, E. P.  &amp; Goris RLT (2021). Primary visual cortex straightens natural video trajectories. Nature Communications 12, 5982. Test.</description>
+    </item>
     
   </channel>
 </rss>
