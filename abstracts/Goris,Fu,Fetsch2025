@@ -1,0 +1,163 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Gorislab -  </title>
+		<link rel="stylesheet" href="/css/foundation.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen">
+	</head>
+
+	<body>
+		<div class="off-canvas-wrapper"> <!-- Definition of global off canvas wrapper -->
+				<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>	<!-- Definition of inner off canvas wrapper -->
+				
+				<!-- Menu -->
+				<div class="off-canvas position-left" id="mobile-menu" data-off-canvas>
+        			<ul>
+						
+						
+          				<li><a class="nav-item" href="/collabs">Collaborators</a></li>
+						
+          				<li><a class="nav-item" href="/labmembers">Members</a></li>
+						
+          				<li><a class="nav-item" href="/publications">Publications</a></li>
+						
+          				<li><a class="nav-item" href="/research">Research</a></li>
+						
+          				<li><a class="nav-item" href="/resources">Resources</a></li>
+						
+          				<li><a class="nav-item" href="https://wikis.utexas.edu/display/gorislab">Wiki</a></li>
+						
+        			</ul>
+				</div>	
+						
+				<!-- Page Content -->
+      			<div class="off-canvas-content" data-off-canvas-content>
+					
+					<!-- Foundation Mobile Menu -->
+					
+					<div class="titlebar show-for-small-only">
+						<div class="title-bar left">
+							<button class="menu-icon" type="button" data-open="mobile-menu"></button>
+							<span class="title-bar-title">MENU</span>
+						</div>
+					</div>
+
+					<!-- Partials that make up the site -->
+		  			<!-- BEGIN NAV BAR DESKTOP -->
+
+<nav class="top-bar nav-desktop ">
+	<div class="wrapper">
+		<div class="top-bar-left">
+			<a href="/"><h3 class="site-logo">Gorislab</h3></a>
+		</div>
+  		
+		<div class="top-bar-right">
+        	<menu class="menu horizontal menu-desktop">
+				
+			
+          	<li><a class="nav-item" href="/collabs">Collaborators</a></li>
+			
+          	<li><a class="nav-item" href="/labmembers">Members</a></li>
+			
+          	<li><a class="nav-item" href="/publications">Publications</a></li>
+			
+          	<li><a class="nav-item" href="/research">Research</a></li>
+			
+          	<li><a class="nav-item" href="/resources">Resources</a></li>
+			
+          	<li><a class="nav-item" href="https://wikis.utexas.edu/display/gorislab">Wiki</a></li>
+			
+        	</menu>
+  	  	</div>
+	</div>
+</nav> <!-- END NAV BAR DESKTOP -->
+		
+					<!-- BEGIN HERO PANEL -->
+
+<section class="hero-panel">
+	<div class="wrapper">
+		<h1></h1>
+		<p></p>
+	</div>
+</section> <!-- END HERO PANEL -->
+
+						
+					
+					<section class="main-content">
+						<div class="wrapper row">
+							<div class="small-12 medium-12 column content-one">
+								<h1></h1>
+								<p> <p><strong> Goris RLT, Fu Z,  &amp; Fetsch CR (2025). Sensory population activity reveals downstream confidence computations in the primate visual system. Annual Review of Vision Science, 11(1), 385–410. </strong><br />
+The primate brain excels at transforming photons into knowledge. When light strikes the back of the eye, opsin molecules within rods and cones absorb photons, triggering a change in membrane potential. This energy transfer initiates a cascade of neural events that endows us with useful knowledge. This knowledge manifests as subjectively experienced perceptual interpretations and mostly pertains to the 3D structure of the visual environment and the affordances of the objects within the scene. However, some of this knowledge instead pertains to the quality of these interpretations and contributes to our sense of confidence in perceptual decisions. Because such confidence reflects knowledge about knowledge, psychologists consider this the domain of metacognition. Here, we examine what is known about the neuronal basis of perceptual decision confidence, with a focus on vision. We review the crucial computational processes and neural operations that underlie and constrain the transformation of photons into visual metacognition.
+                </p>
+							</div>
+						</div>
+					</section>
+							
+					<!-- BEGIN FOOTER -->
+<footer>
+<div class="wrapper row small-up-1 medium-up-3">
+		
+		<div class="column">
+			<h4>Contact Info</h4>
+			<hr>
+			<a><span>Email </span>robbe.goris@utexas.edu</a>
+			<a><span>Address </span>CPS, UT Austin, SEA 5.520, Mailcode A8000, Austin, TX, 78712</a>
+		</div>
+		
+		<div class="column">
+			<h4>Links</h4>
+			<hr>
+			
+			
+			<a class="nav-item" href="/collabs">Collaborators</a>
+			
+			<a class="nav-item" href="/labmembers">Members</a>
+			
+			<a class="nav-item" href="/publications">Publications</a>
+			
+			<a class="nav-item" href="/research">Research</a>
+			
+			<a class="nav-item" href="/resources">Resources</a>
+			
+			<a class="nav-item" href="https://wikis.utexas.edu/display/gorislab">Wiki</a>
+			
+		</div>
+		
+		<div class="column">
+			<h4>Social</h4>
+			<hr>
+			
+			
+			<a class="nav-item" href="http://github.com" rel="me">Github</a>
+			
+			<a class="nav-item" href="http://twitter.com/GorisLab" rel="me">Twitter</a>
+			
+		</div>
+
+	</div>
+</footer> <!-- END FOOTER -->
+	
+
+				</div> <!-- End page content menu wrapper -->
+		
+			</div> <!-- End of global off canvas inner wrapper -->
+		</div> <!-- End of global off canvas wrapper -->
+		
+		
+		<!-- JS includes -->
+		
+		<script src="/js/jquery.js"></script>
+		<script src="/js/what-input.js"></script>
+		<script src="/js/foundation.js"></script>
+		<script src="/js/app.js"></script>
+		
+	</body>
+</html>
+  
+  
+  
+  
